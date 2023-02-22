@@ -9,7 +9,7 @@ int main() {
     int choose;
     int arrived;
 
-    cout << "Hello to our sopping maal. How can I help you?..." << '\n'; // Welcom message to customer
+    cout << "Hello to our shopping mall. How can I help you?..." << '\n'; // Welcom message to customer
     cout << "What section would you like to visit first?" << '\n';
 
     const char *text = "We have following sections: " // Choose next location - shopping sections
